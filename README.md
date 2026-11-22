@@ -8,6 +8,16 @@ RescueLoop is a web app for coordinating surplus food rescue across Hyderabad. I
 
 Event caterers and banquet kitchens in Hyderabad (Gachibowli, Madhapur, Kondapur, Jubilee Hills, and Banjara Hills) often finish events with 20 to 100+ untouched portions of food. Right now, most coordination happens over phone calls and WhatsApp messages. Food frequently expires before a matching NGO is found, volunteers do not have a structured handover check, and caterers have no way to see which dishes they keep overcooking.
 
+## Business Model & Why Donors and Sponsors Pay
+
+RescueLoop is designed to give busy caterers measurable weekly value rather than relying only on charity goodwill:
+
+- **What caterers get every week:** The **Kitchen Overcooking Cost Estimate** and **Most-posted dishes** tracker show kitchen managers exactly which menu items are repeatedly left over and how much food value (in INR) is being overcooked. Cutting even 5 to 10 percent of recurring kitchen overproduction saves far more than a monthly software subscription.
+- **Who pays (3 revenue streams):**
+  1. **Caterer & Banquet SaaS (Primary):** Monthly subscription for high-volume event caterers, corporate cafeterias, and hotel banquets in Hyderabad to access dish-level waste analytics, automated handover logs, and one-click CSR impact PDFs/CSVs for their corporate clients.
+  2. **Corporate CSR Sponsors:** Companies hosting large tech-park events (Gachibowli, Madhapur, Kondapur) sponsor local NGO pickups and volunteer logistics in exchange for co-branded monthly impact reports (meals saved, kg diverted, CO2e avoided).
+  3. **City & Municipal Waste Partnerships:** City authorities and green-event bodies can sponsor neighborhood rollouts to reduce wet-waste hauling and landfill methane costs.
+
 RescueLoop puts all three sides in one workspace:
 
 1. **Donors (Caterers):** Post surplus food in under a minute, track pickup status and 4-digit handover codes, spot repeatedly overcooked dishes, estimate kitchen waste value in INR, and download CSR reports as PDF or CSV.
