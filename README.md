@@ -2,7 +2,7 @@
 
 **RescueLoop** is a role-based surplus food rescue coordination web app built for Hyderabad's catering and event ecosystem. It connects caterers and banquet kitchens (**Donors**) with nearby NGOs and community kitchens (**Receivers**) and local dispatch drivers (**Volunteers**) to move safe, surplus meals from events to communities before pickup windows expire.
 
-> **Live Demo:** `<PASTE_YOUR_VERCEL_URL_HERE>`
+> **Live Demo:** `https://rescue-loop.vercel.app`
 
 ---
 
